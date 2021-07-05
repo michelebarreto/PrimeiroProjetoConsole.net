@@ -1,0 +1,13 @@
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\bin\Debug\netcoreapp3.1\ConsoleAppWeb.exe
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\bin\Debug\netcoreapp3.1\ConsoleAppWeb.deps.json
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\bin\Debug\netcoreapp3.1\ConsoleAppWeb.runtimeconfig.json
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\bin\Debug\netcoreapp3.1\ConsoleAppWeb.runtimeconfig.dev.json
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\bin\Debug\netcoreapp3.1\ConsoleAppWeb.dll
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\bin\Debug\netcoreapp3.1\ConsoleAppWeb.pdb
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\obj\Debug\netcoreapp3.1\ConsoleAppWeb.csproj.AssemblyReference.cache
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\obj\Debug\netcoreapp3.1\ConsoleAppWeb.AssemblyInfoInputs.cache
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\obj\Debug\netcoreapp3.1\ConsoleAppWeb.AssemblyInfo.cs
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\obj\Debug\netcoreapp3.1\ConsoleAppWeb.csproj.CoreCompileInputs.cache
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\obj\Debug\netcoreapp3.1\ConsoleAppWeb.dll
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\obj\Debug\netcoreapp3.1\ConsoleAppWeb.pdb
+C:\Users\Michele Barreto\source\WebSolucao\ConsoleAppWeb\obj\Debug\netcoreapp3.1\ConsoleAppWeb.genruntimeconfig.cache
